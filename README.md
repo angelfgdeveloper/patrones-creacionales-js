@@ -16,7 +16,7 @@ Nos permite que no se pueda crear más de una instancia de un objeto.
 
 - Factory:
 ```
-  
+Nos provee una interfaz para crear objetos basados en una superclase.
 ```
 
 ---
