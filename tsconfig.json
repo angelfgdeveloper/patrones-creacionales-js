@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "es6", // Elige el nivel de versión de ECMAScript que deseas compilar
+    "outDir": "dist", // Carpeta de salida para los archivos compilados
+    "rootDir": "src", // Carpeta de origen de tus archivos TypeScript
+    "module": "commonjs", // Formato de módulo
+    "strict": true // Activa la comprobación estricta de tipos
+  },
+  "include": ["src/**/*"] // Patrón para incluir los archivos TypeScript en la compilación
+}
