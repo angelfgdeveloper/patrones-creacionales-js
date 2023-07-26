@@ -23,7 +23,7 @@ Nos provee una interfaz para crear objetos basados en una superclase.
 
 - Abstract factory:
 ```
-  
+Nos provee una estrategia para encapsular multiples fabricas de diferentes productos bajo una misma familia.
 ```
 
 ---
