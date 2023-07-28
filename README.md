@@ -37,7 +37,7 @@ Nos permite dividir la creación de un objeto en pasos. (podemos crear diferente
 
 - Prototype:
 ```
-  
+Nos permite hacer clones de objetos existentes sin depender de clases concretas.
 ```
 
 ---
