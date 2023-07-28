@@ -30,7 +30,7 @@ Nos provee una estrategia para encapsular multiples fabricas de diferentes produ
 
 - Builder:
 ```
-  
+Nos permite dividir la creación de un objeto en pasos. (podemos crear diferentes representaciones)
 ```
 
 ---
